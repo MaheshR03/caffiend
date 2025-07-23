@@ -15,7 +15,7 @@
 
 Experience the application live: [https://caffiend-coffeetracker.vercel.app/](https://caffiend-coffeetracker.vercel.app/)
 
-## �️ Technology Stack
+## 🛠️ Technology Stack
 
 - **Frontend**: React 18.3.1, Vite
 - **Styling**: FantaCSS, CSS3
